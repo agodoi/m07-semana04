@@ -10,10 +10,11 @@ A seguir, você vai entender porque criar cada elemento da arquitetura corporati
 
 ## Arquitetura e Elementos 
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://github.com/agodoi/ArquiteturaCorp/blob/main/imgs/Slide1.PNG">
-   <img alt="Arquitetura Inicial" src="[YOUR-DEFAULT-IMAGE](https://github.com/agodoi/ArquiteturaCorp/blob/main/imgs/Slide1.PNG)">
-</picture>
+
+
+<img src="https://github.com/agodoi/ArquiteturaCorp/blob/main/imgs/Slide1.PNG" width="600">
+
+<img src="https://github.com/agodoi/ArquiteturaCorp/blob/main/imgs/Slide1.PNG" width="600">
 
 
 * Route 53 é o conversor do link S3 ou EC2 interno AWS (com vários caracteres) para um DNS amigável que você compra na Internet.

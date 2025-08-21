@@ -11,10 +11,13 @@ A seguir, você vai entender porque criar cada elemento da arquitetura corporati
 ## Arquitetura e Elementos 
 
 
-
+### Infográfico de Fluxo de Serviços AWS
 <img src="https://github.com/agodoi/ArquiteturaCorp/blob/main/imgs/Slide1.PNG" width="1000">
 
-<img src="https://github.com/agodoi/m07-semana04/blob/main/imgs/m07-semana04.png" width="1000">
+
+### Diagrama de Implantação
+
+<img src="https://github.com/agodoi/m07-semana04/blob/main/imgs/m07-semana04.png" width="800">
 
 
 * Route 53 é o conversor do link S3 ou EC2 interno AWS (com vários caracteres) para um DNS amigável que você compra na Internet.

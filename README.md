@@ -4,9 +4,9 @@ Nessa instrução, vamos explorar a arquitetura corporativa (apresentada na imag
 
 ## Ganho para o Projeto
 
-Nessa instrução, vamos entender como o projeto da Vivo pode ser arquitetado de modo profissional e real, e que permita a disponibilidade robusta do banco de dados do estoque de telefones entre as milhares de lojas, permitindo a rápida consulta no momento das vendas.
+Nessa instrução, vamos entender como o projeto da venda de ingressos pode ser arquitetado de modo profissional e real, e que permita a disponibilidade robusta do banco de dados do estoque de telefones entre as milhares de lojas, permitindo a rápida consulta no momento das vendas.
 
-A seguir, você vai entender porque criar cada elemento da arquitetura corporativa no seu projeto da Vivo.
+A seguir, você vai entender porque criar cada elemento da arquitetura corporativa no seu projeto.
 
 ## Arquitetura e Elementos 
 

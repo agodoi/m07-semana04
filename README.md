@@ -12,7 +12,7 @@ A seguir, você vai entender porque criar cada elemento da arquitetura corporati
 
 
 
-<img src="https://github.com/agodoi/ArquiteturaCorp/blob/main/imgs/Slide1.PNG" width="600">
+<img src="https://github.com/agodoi/ArquiteturaCorp/blob/main/imgs/Slide1.PNG" width="1000">
 
 <img src="https://github.com/agodoi/ArquiteturaCorp/blob/main/imgs/Slide1.PNG" width="600">
 

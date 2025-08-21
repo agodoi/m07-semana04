@@ -15,7 +15,7 @@ A seguir, você vai entender porque criar cada elemento da arquitetura corporati
 <img src="https://github.com/agodoi/ArquiteturaCorp/blob/main/imgs/Slide1.PNG" width="1000">
 
 
-### Diagrama de Implantação UML [UMLetino](https://umletino.com/umletino.html)
+### Diagrama de Implantação UML ([UMLetino](https://umletino.com/umletino.html))
 
 <img src="https://github.com/agodoi/m07-semana04/blob/main/imgs/m07-semana04.png" width="800">
 
